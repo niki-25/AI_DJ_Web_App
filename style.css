@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+#note{
+    padding:10px;
+}
+#song_name{
+    padding: 15px;
+    color: aquamarine;
+}
+#canvas{
+    box-shadow: 10%;
+    border-color: deeppink;
+    border-radius: 10%;
+}
